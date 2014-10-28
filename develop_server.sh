@@ -6,6 +6,7 @@ PY=${PY:-python}
 PELICAN=${PELICAN:-pelican}
 PELICANOPTS=
 
+rm *~
 BASEDIR=$(pwd)
 INPUTDIR=$BASEDIR/content
 OUTPUTDIR=$BASEDIR/output
