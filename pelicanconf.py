@@ -65,7 +65,7 @@ BOOTSTRAP_NAVBAR_INVERSE = True
 #PLUGIN_PATHS = [os.path.join(os.environ.get('HOME'),
 #                'projects/python/pelican-plugins')]
 
-PLUGIN_PATHS = ['/home/alireza/Downloads/myPython/justgit/pelican-plugins']
+PLUGIN_PATHS = ['/home/rostam/Projects/Daftarcheh/pelican-plugins']
 PLUGINS = ['better_figures_and_images',
            'liquid_tags.img', 'liquid_tags.video',
 	   'liquid_tags.youtube', 'liquid_tags.vimeo',
