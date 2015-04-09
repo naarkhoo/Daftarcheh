@@ -74,10 +74,9 @@ PLUGINS = ['better_figures_and_images',
 	   'pelican_youtube',
 	   'render_math']
 
-
 NOTEBOOK_DIR = 'notebooks'
 
-#DISQUS_SITENAME = 'dandydev-dev'
+DISQUS_SITENAME = 'goshadesar'
 #ADDTHIS_PROFILE = 'ra-520d4af6518bf3c7'
 
 # Uncomment following line if you want document-relative URLs when developing
