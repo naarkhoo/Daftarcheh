@@ -11,5 +11,10 @@ installation
 
 1) pip install -r /path/to/requirements.txt
 2) make sure about PLUGIN_PATHS 
-
 3) detect pid : lsof -i :8000
+
+4) workon temp
+5) go to the publish folder and 
+	git add --all
+	git commit -m 'message'
+	git push --all
