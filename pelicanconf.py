@@ -5,7 +5,8 @@ import os
 
 AUTHOR = u'Alireza Kashani'
 SITENAME = u'Ruzane'
-SITEURL = 'http://localhost:8000'
+#SITEURL = 'http://localhost:8000'
+SITEURL = 'http://naarkhoo.github.io/Goshadesar/'
 
 TIMEZONE = 'Europe/Paris'
 DATE_FORMAT = {'%d %b %Y'}
