@@ -9,4 +9,5 @@ OUTPUT=$curdir/output
 SETTINGS=$curdir/pelicanconf.py
 
 $PELICAN $CONTENT -o $OUTPUT -s $SETTINGS
-cp -r $OUTPUT $publishdir
+rm -rf $publishdir
+cp -rf $OUTPUT $publishdir

@@ -20,7 +20,7 @@ FEED_ALL_RSS = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
-#GITHUB_USER = 'DandyDev'
+GITHUB_USER = 'naarkhoo'
 #GITHUB_SKIP_FORK = True
 
 STATIC_PATHS = ['images']
@@ -39,7 +39,7 @@ RESPONSIVE_IMAGES = True
 #          ('linkedin', 'http://www.linkedin.com/in/danieldebie'),
 #          ('github', 'http://github.com/DandyDev'),)
 
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 50
 
 TAG_CLOUD_MAX_ITEMS = 10
 
@@ -52,8 +52,6 @@ THEME = os.getcwd() + "/pelican-bootstrap3"
 
 BOOTSTRAP_THEME = 'simplex'
 PYGMENTS_STYLE = 'simplex'
-
-
 
 BOOTSTRAP_NAVBAR_INVERSE = True
 
