@@ -35,9 +35,9 @@ RESPONSIVE_IMAGES = True
 #LINKS = None
 
 # Social widget
-#SOCIAL = (('twitter', 'http://twitter.com/DaanDebie'),
-#          ('linkedin', 'http://www.linkedin.com/in/danieldebie'),
-#          ('github', 'http://github.com/DandyDev'),)
+SOCIAL = (('twitter', 'http://twitter.com/DaanDebie'),
+          ('linkedin', 'http://www.linkedin.com/in/danieldebie'),
+          ('github', 'http://github.com/DandyDev'),)
 
 DEFAULT_PAGINATION = 50
 
